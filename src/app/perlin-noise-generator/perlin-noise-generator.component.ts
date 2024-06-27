@@ -1,3 +1,6 @@
+//TODO: suddividere creazione immagine da bottoni
+//TODO: bottoni, toggle
+
 import { Component, OnInit, ElementRef, ViewChild } from '@angular/core';
 import p5 from 'p5';
 
